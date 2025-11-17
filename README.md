@@ -31,8 +31,6 @@ Pickle for storing face embeddings.
 
 This system automates attendance marking, reduces manual effort, and improves accuracy and security in attendance tracking.
 
-Feel free to customize it further or ask for a README template!
-
 
 <img width="1016" height="567" alt="Screenshot 2025-11-17 231237" src="https://github.com/user-attachments/assets/f7ec7a0c-1d6c-4e26-8142-e86fead8aeda" />
 <img width="1013" height="570" alt="Screenshot 2025-11-17 231421" src="https://github.com/user-attachments/assets/3156af2b-bf0d-4c84-82ff-0c35290beecf" />
